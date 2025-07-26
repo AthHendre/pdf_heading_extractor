@@ -1,0 +1,940 @@
+[
+  {
+    "section": "SECTION 1 SCOPE AND APPLICATION",
+    "subsections": [
+      {
+        "title": "1.1 SCOPE ......................................................................................................................... 6",
+        "subpoints": []
+      },
+      {
+        "title": "1.2 APPLICATION ............................................................................................................ 6",
+        "subpoints": []
+      },
+      {
+        "title": "1.3 ALTERNATIVE SPECIFICATIONS ........................................................................... 7",
+        "subpoints": []
+      },
+      {
+        "title": "1.4 REFERENCED AND RELATED DOCUMENTS ....................................................... 7",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 DEFINITIONS ............................................................................................................. 8",
+        "subpoints": []
+      }
+    ]
+  },
+  {
+    "section": "SECTION 2 CABLE SELECTION PROCEDURE",
+    "subsections": [
+      {
+        "title": "2.1 GENERAL ................................................................................................................. 10",
+        "subpoints": []
+      },
+      {
+        "title": "2.2 SELECTION PROCESS ............................................................................................ 10",
+        "subpoints": []
+      },
+      {
+        "title": "2.3 DETERMINATION OF MINIMUM CABLE SIZE BASED ON",
+        "subpoints": []
+      },
+      {
+        "title": "2.4 DETERMINATION OF MINIMUM CABLE SIZE BASED ON",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 DETERMINATION OF MINIMUM CABLE SIZE BASED ON THE",
+        "subpoints": []
+      },
+      {
+        "title": "2.6 DETERMINATION OF CABLE SIZE BASED ON THE ECONOMIIC",
+        "subpoints": []
+      }
+    ]
+  },
+  {
+    "section": "SECTION 3 CURRENT-CARRYING CAPACITY",
+    "subsections": [
+      {
+        "title": "3.1 RATINGS .................................................................................................................. 13",
+        "subpoints": []
+      },
+      {
+        "title": "3.2 TYPES OF CONDUCTORS ...................................................................................... 13",
+        "subpoints": []
+      },
+      {
+        "title": "3.3 TYPES OF CABLE .................................................................................................... 15",
+        "subpoints": []
+      },
+      {
+        "title": "3.4 INSTALLATION CONDITIONS............................................................................... 17",
+        "subpoints": []
+      },
+      {
+        "title": "3.5 EXTERNAL INFLUENCES ON CABLES ................................................................ 20",
+        "subpoints": []
+      }
+    ]
+  },
+  {
+    "section": "SECTION 4 VOLTAGE DROP",
+    "subsections": [
+      {
+        "title": "4.1 GENERAL ................................................................................................................. 91",
+        "subpoints": []
+      },
+      {
+        "title": "4.2 DETERMINATION OF VOLTAGE DROP FROM MILLIVOLTS",
+        "subpoints": []
+      },
+      {
+        "title": "4.3 DETERMINATION OF VOLTAGE DROP FROM CIRCUIT IMPEDANCE ........... 92",
+        "subpoints": []
+      },
+      {
+        "title": "4.4 DETERMINATION OF VOLTAGE DROP FROM CABLE OPERATING",
+        "subpoints": []
+      },
+      {
+        "title": "4.5 DETERMINATION OF VOLTAGE DROP FROM LOAD POWER FACTOR ........ 94",
+        "subpoints": []
+      },
+      {
+        "title": "4.6 DETERMINATION OF VOLTAGE DROP IN UNBALANCED",
+        "subpoints": []
+      }
+    ]
+  },
+  {
+    "section": "SECTION 5 SHORT-CIRCUIT PERFORMANCE",
+    "subsections": [
+      {
+        "title": "5.1 GENERAL ............................................................................................................... 120",
+        "subpoints": []
+      },
+      {
+        "title": "5.2 FACTORS GOVERNING THE APPLICATION OF",
+        "subpoints": []
+      },
+      {
+        "title": "5.3 CALCULATION OF PERMISSIBLE SHORT-CIRCUIT CURRENTS ................... 121",
+        "subpoints": []
+      },
+      {
+        "title": "5.4 INFLUENCE OF METHOD OF INSTALLATION ................................................. 122",
+        "subpoints": []
+      },
+      {
+        "title": "5.5 MAXIMUM PERMISSIBLE SHORT-CIRCUIT TEMPERATURES ...................... 122",
+        "subpoints": []
+      },
+      {
+        "title": "1.1 SCOPE",
+        "subpoints": []
+      },
+      {
+        "title": "1.2 APPLICATION",
+        "subpoints": []
+      },
+      {
+        "title": "1.3 ALTERNATIVE SPECIFICATIONS",
+        "subpoints": []
+      },
+      {
+        "title": "1.4 REFERENCED AND RELATED DOCUMENTS",
+        "subpoints": [
+          "1.4.1 Referenced documents",
+          "3008.1.2 Part 1.2: Cables for alternating voltages up to and including 0.6/1 kV\u2014",
+          "1.4.2 Related documents"
+        ]
+      },
+      {
+        "title": "60702.1 Part 1: Cables",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 DEFINITIONS",
+        "subpoints": [
+          "1.5.1 Ambient temperature",
+          "1.5.2 Circuit",
+          "1.5.3 Continuous loading",
+          "1.5.4 Installation wiring",
+          "1.5.5 Ladder support",
+          "1.5.6 Perforated tray",
+          "1.5.7 Route length"
+        ]
+      },
+      {
+        "title": "2.1 GENERAL",
+        "subpoints": []
+      },
+      {
+        "title": "2.2 SELECTION PROCESS",
+        "subpoints": []
+      },
+      {
+        "title": "2.3 DETERMINATION OF MINIMUM CABLE SIZE BASED ON CURRENT-",
+        "subpoints": []
+      },
+      {
+        "title": "2.4 DETERMINATION OF MINIMUM CABLE SIZE BASED ON VOLTAGE DROP",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 DETERMINATION OF MINIMUM CABLE SIZE BASED ON THE SHORT-",
+        "subpoints": []
+      },
+      {
+        "title": "2.6 DETERMINATION OF CABLE SIZE BASED ON THE ECONOMIIC",
+        "subpoints": []
+      },
+      {
+        "title": "3.1 RATINGS",
+        "subpoints": [
+          "3.1.1 General",
+          "3.1.2 Basis"
+        ]
+      },
+      {
+        "title": "3.2 TYPES OF CONDUCTORS",
+        "subpoints": [
+          "3.2.1 Conductor material",
+          "3.2.2 Insulation material operating temperatures"
+        ]
+      },
+      {
+        "title": "3.3 TYPES OF CABLE",
+        "subpoints": [
+          "3.3.1 Sheathed or unsheathed thermoplastic, cross-linked elastomeric and XLPE",
+          "3.3.2 Flexible cords and cables",
+          "3.3.3 Mineral-insulated metal-sheathed (MIMS) cables",
+          "3.3.4 Aerial cables",
+          "3.3.5 Neutral-screened cables",
+          "3.3.6 High temperature cross-linked elastomeric, polymeric or fibrous insulated",
+          "3.3.7 Other cable types"
+        ]
+      },
+      {
+        "title": "3.4 INSTALLATION CONDITIONS",
+        "subpoints": [
+          "3.4.1 General",
+          "3.4.2 Cables installed in air",
+          "3.4.3 Cables installed in thermal insulation",
+          "3.4.4 Cables buried direct in the ground",
+          "3.4.5 Cables installed in underground wiring enclosures",
+          "3.4.6 Variation of installation conditions along cable run"
+        ]
+      },
+      {
+        "title": "3.5 EXTERNAL INFLUENCES ON CABLES",
+        "subpoints": [
+          "3.5.1 Application of rating factors",
+          "3.5.2 Effect of grouping of cables",
+          "3.5.3 Effect of ambient temperature",
+          "3.5.4 Effect of depth of laying",
+          "3.5.5 Effect of thermal resistivity of soil",
+          "3.5.6 Effect of varying loads",
+          "3.5.7 Effect of thermal insulation",
+          "3.5.8 Effect of direct sunlight",
+          "3.5.9 Effect of harmonic currents on balanced three-phase systems",
+          "3.5.10 Effect of parallel cables",
+          "3.5.11 Effect of electromagnetic interference"
+        ]
+      },
+      {
+        "title": "1.5 21 21 \u2014 21 21 \u2014 16 17 \u2014 10 10 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 30 29 \u2014 29 28 \u2014 23 22 \u2014 13 13 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 18 18 \u2014 14 \u2014 8 \u2014 23 \u2014 23 23 \u2014 26 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 24 24 \u2014 20 \u2014 12 \u2014 32 \u2014 32 31 \u2014 36 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 26 26 \u2014 25 26 \u2014 20 20 \u2014 15 16 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 36 35 \u2014 36 34 \u2014 28 27 \u2014 21 21 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 21 21 \u2014 16 \u2014 10 \u2014 26 \u2014 26 26 \u2014 30 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 30 28 \u2014 24 \u2014 14 \u2014 36 \u2014 36 35 \u2014 41 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 32 32 31 32 25 26 21 22",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 45 43 44 42 36 34 30 29",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 25 25 20 13 29 29 30 33",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 35 33 28 18 40 40 39 46",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 20 21 \u2014 17 18 \u2014 16 17 \u2014 10 10 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 29 27 \u2014 25 24 \u2014 23 22 \u2014 13 13 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 15 15 \u2014 12 \u2014 8 \u2014 20 \u2014 20 20 \u2014 24 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 21 20 \u2014 17 \u2014 12 \u2014 27 \u2014 27 26 \u2014 33 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 25 25 \u2014 21 22 \u2014 20 20 \u2014 15 16 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 35 33 \u2014 30 29 \u2014 28 27 \u2014 21 21 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 18 19 \u2014 15 \u2014 10 \u2014 22 \u2014 22 23 \u2014 27 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 25 24 \u2014 20 \u2014 14 \u2014 31 \u2014 31 30 \u2014 38 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 31 31 27 27 25 26 21 22",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 43 42 38 36 36 34 30 29",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 22 23 18 13 25 25 26 30",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 32 31 25 18 36 36 34 42",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 19 20 \u2014 18 18 \u2014 14 14 \u2014 16 17 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 27 26 \u2014 26 25 \u2014 20 19 \u2014 23 23 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 14 \u2014 13 \u2014 9 \u2014 8 \u2014 21 \u2014 21 22 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 20 \u2014 19 \u2014 13 \u2014 12 \u2014 30 \u2014 30 29 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 24 24 \u2014 22 23 \u2014 19 20 \u2014 20 20 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 34 32 \u2014 31 30 \u2014 27 26 \u2014 28 27 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 18 \u2014 16 \u2014 11 \u2014 10 \u2014 24 \u2014 24 25 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 25 \u2014 23 \u2014 16 \u2014 14 \u2014 34 \u2014 34 33 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 29 30 28 28 25 26",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 41 40 39 38 36 34",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 24 24 19 14 28 28 29",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 33 32 27 19 39 39 37",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 16 17 \u2014 15 16 \u2014 12 12 \u2014 14 14 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 23 22 \u2014 22 21 \u2014 17 16 \u2014 20 19 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 12 \u2014 11 \u2014 8 \u2014 7 \u2014 18 \u2014 18 18 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 17 \u2014 16 \u2014 11 \u2014 10 \u2014 25 \u2014 25 24 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 20 20 \u2014 19 19 \u2014 16 17 \u2014 16 17 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 28 27 \u2014 26 26 \u2014 23 22 \u2014 24 23 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 15 \u2014 13 \u2014 9 \u2014 8 \u2014 20 \u2014 20 21 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 21 \u2014 19 \u2014 13 \u2014 12 \u2014 29 \u2014 29 28 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 25 26 24 24 22 22",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 35 34 33 32 30 29",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 20 21 16 12 24 24 24",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 29 27 23 17 33 33 31",
+        "subpoints": []
+      },
+      {
+        "title": "0.5 3 (see Note 2)",
+        "subpoints": []
+      },
+      {
+        "title": "0.75 7.5",
+        "subpoints": []
+      },
+      {
+        "title": "1.0 10",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 16",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 20",
+        "subpoints": []
+      },
+      {
+        "title": "4.0 25",
+        "subpoints": []
+      },
+      {
+        "title": "0.5 A.",
+        "subpoints": []
+      },
+      {
+        "title": "0.5 19 15 15 13",
+        "subpoints": []
+      },
+      {
+        "title": "0.75 24 20 20 16",
+        "subpoints": []
+      },
+      {
+        "title": "1.0 28 23 24 19",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 37 28 31 24",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 50 38 43 32",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 26 23 21 25 21 19",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 35 31 28 34 28 26",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 30 27 24 29 22 22",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 40 36 33 39 33 30",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 23 21 20 18 15 14",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 32 29 27 26 20 19",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 27 25 22 21 16 15",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 36 33 30 28 22 20",
+        "subpoints": []
+      },
+      {
+        "title": "1.0 m/s wind is recommended.",
+        "subpoints": []
+      },
+      {
+        "title": "0.94 0.85 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "0.92 0.83 \u2014 (See Note 7)",
+        "subpoints": []
+      },
+      {
+        "title": "0.91 0.90 0.85",
+        "subpoints": []
+      },
+      {
+        "title": "0.95 0.94 0.90",
+        "subpoints": []
+      },
+      {
+        "title": "0.15 0.30 0.45 0.60",
+        "subpoints": []
+      },
+      {
+        "title": "0.15 0.30 0.45 0.60",
+        "subpoints": []
+      },
+      {
+        "title": "0.45 0.60",
+        "subpoints": []
+      },
+      {
+        "title": "0.30 0.45 0.60",
+        "subpoints": []
+      },
+      {
+        "title": "0.5 1.00 1.00 1.00",
+        "subpoints": []
+      },
+      {
+        "title": "0.6 0.99 0.98 0.97",
+        "subpoints": []
+      },
+      {
+        "title": "0.8 0.97 0.96 0.94",
+        "subpoints": []
+      },
+      {
+        "title": "1.0 0.95 0.94 0.92",
+        "subpoints": []
+      },
+      {
+        "title": "1.25 0.94 0.92 0.90",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 0.93 0.91 0.89",
+        "subpoints": []
+      },
+      {
+        "title": "1.75 0.92 0.89 0.87",
+        "subpoints": []
+      },
+      {
+        "title": "2.0 0.91 0.88 0.86",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 0.90 0.87 0.85",
+        "subpoints": []
+      },
+      {
+        "title": "3.0 or more 0.89 0.86 0.83",
+        "subpoints": []
+      },
+      {
+        "title": "0.5 1.00 1.00",
+        "subpoints": []
+      },
+      {
+        "title": "0.6 0.98 0.99",
+        "subpoints": []
+      },
+      {
+        "title": "0.8 0.95 0.97",
+        "subpoints": []
+      },
+      {
+        "title": "1.0 0.93 0.96",
+        "subpoints": []
+      },
+      {
+        "title": "1.25 0.90 0.95",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 0.89 0.94",
+        "subpoints": []
+      },
+      {
+        "title": "1.75 0.88 0.94",
+        "subpoints": []
+      },
+      {
+        "title": "2.0 0.87 0.93",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 0.86 0.93",
+        "subpoints": []
+      },
+      {
+        "title": "3.0 or more 0.85 0.92",
+        "subpoints": []
+      },
+      {
+        "title": "0.8 1.09 1.16 1.03 1.06 1.08",
+        "subpoints": []
+      },
+      {
+        "title": "0.9 1.07 1.11 1.02 1.04 1.06",
+        "subpoints": []
+      },
+      {
+        "title": "1.0 1.04 1.07 1.02 1.03 1.04",
+        "subpoints": []
+      },
+      {
+        "title": "1.2 1.00 1.00 1.00 1.00 1.00",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 0.92 0.90 0.95 0.94 0.92",
+        "subpoints": []
+      },
+      {
+        "title": "2.0 0.81 0.80 0.88 0.86 0.83",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 0.74 0.72 0.83 0.80 0.77",
+        "subpoints": []
+      },
+      {
+        "title": "3.0 0.69 0.66 0.78 0.75 0.71",
+        "subpoints": []
+      },
+      {
+        "title": "4.1 GENERAL",
+        "subpoints": []
+      },
+      {
+        "title": "4.2 DETERMINATION OF VOLTAGE DROP FROM MILLIVOLTS PER AMPERE",
+        "subpoints": []
+      },
+      {
+        "title": "4.3 DETERMINATION OF VOLTAGE DROP FROM CIRCUIT IMPEDANCE",
+        "subpoints": [
+          "4.3.1 General",
+          "4.3.2 Single-phase, two-wire supply system",
+          "4.3.3 Three-phase, three-wire or four-wire supply system",
+          "4.3.4 Two-phase, three-wire, earthed neutral 120\u00b0 supply system"
+        ]
+      },
+      {
+        "title": "1.5 ( ILZ )",
+        "subpoints": [
+          "4.3.5 Single-phase, three-wire, earthed centre-tapped 180\u00b0 supply system"
+        ]
+      },
+      {
+        "title": "4.4 DETERMINATION OF VOLTAGE DROP FROM CABLE OPERATING",
+        "subpoints": []
+      },
+      {
+        "title": "4.5 DETERMINATION OF VOLTAGE DROP FROM LOAD POWER FACTOR",
+        "subpoints": []
+      },
+      {
+        "title": "4.6 DETERMINATION OF VOLTAGE DROP IN UNBALANCED MULTIPHASE",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 0.167 0.157 0.155 0.183 0.172 0.170 0.129 0.111 0.107 \u2014 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 0.153 0.143 0.141 0.168 0.159 0.156 0.118 0.102 0.0988 \u2014 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "0.0690 \u2126/km, respectively, to the values in Column 2 to Column 7:",
+        "subpoints": []
+      },
+      {
+        "title": "0.5 0.192 0.180 0.178 0.207 0.195 0.193 0.153 0.131 0.125",
+        "subpoints": []
+      },
+      {
+        "title": "0.75 0.179 0.168 0.166 0.194 0.183 0.181 0.142 0.122 0.117",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 0.160 0.150 0.148 0.176 0.165 0.163 0.127 0.109 0.105",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 0.149 0.139 0.137 0.164 0.155 0.153 0.118 0.101 0.0977",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 0.116 0.0865",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 0.107 0.0814",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 0.139 0.1010",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 0.128 0.0937",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 14.9 15.7 16.5 \u2014 17.3 18.4 \u2014 \u2014 \u2014 \u2014 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 8.14 8.57 9.01 \u2014 9.45 10.0 \u2014 \u2014 \u2014 \u2014 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 14.9 15.7 16.5 17.3 18.4 \u2014 \u2014 \u2014 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 8.14 8.57 9.01 9.45 10.0 \u2014 \u2014 \u2014 \u2014",
+        "subpoints": []
+      },
+      {
+        "title": "0.5 42.8 45.1 47.4 49.7 52.8 42.8 45.1 47.4 49.7 52.8",
+        "subpoints": []
+      },
+      {
+        "title": "0.75 28.6 30.1 31.6 33.2 35.2 28.6 30.1 31.6 33.2 35.2",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 14.6 15.4 16.2 17.0 18.0 14.6 15.4 16.2 17.0 18.0",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 8.76 9.23 9.70 10.2 10.8 8.76 9.23 9.70 10.2 10.8",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 12.7 13.3 14.0 14.7 15.2 15.4",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 7.61 8.02 8.43 8.83 9.11 9.24",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 25.9 25.9 27.3 27.3 28.6 28.6 \u2014 \u2014 30.0 30.0 31.9 31.9",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 14.1 14.1 14.9 14.9 15.6 15.6 \u2014 \u2014 16.4 16.4 17.4 17.4",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 25.9 25.9 27.3 27.3 28.6 28.6 30.0 30.0 31.9 31.9",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 14.1 14.1 14.9 14.9 15.6 15.6 16.4 16.4 17.4 17.4",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 25.9 25.9 27.3 27.3 28.6 28.6 30.0 30.0 31.9 31.9",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 14.1 14.1 14.9 14.9 15.6 15.6 16.4 16.4 17.4 17.4",
+        "subpoints": []
+      },
+      {
+        "title": "0.5 74.2 74.2 78.2 78.2 82.2 82.2 86.1 86.1 91.4 91.4",
+        "subpoints": []
+      },
+      {
+        "title": "0.75 49.5 49.5 52.1 52.1 54.8 54.8 57.4 57.4 61.0 61.0",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 25.3 25.3 26.7 26.7 28.0 28.0 29.4 29.4 31.2 31.2",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 15.2 15.2 16.0 16.0 16.8 16.8 17.6 17.6 18.7 18.7",
+        "subpoints": []
+      },
+      {
+        "title": "0.5 74.2 74.2 78.2 78.2 82.2 82.2 86.1 86.1 91.4 91.4",
+        "subpoints": []
+      },
+      {
+        "title": "0.75 49.5 49.5 52.1 52.1 54.8 54.8 57.4 57.4 61.0 61.0",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 25.3 25.3 26.7 26.7 28.0 28.0 29.4 29.4 31.2 31.2",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 15.2 15.2 16.0 16.0 16.8 16.8 17.6 17.6 18.7 18.7",
+        "subpoints": []
+      },
+      {
+        "title": "0.5 74.2 74.2 78.2 78.2 82.2 82.2 86.1 86.1 91.4 91.4",
+        "subpoints": []
+      },
+      {
+        "title": "0.75 49.5 49.5 52.1 52.1 54.8 54.8 57.4 57.4 61.0 61.0",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 25.3 25.3 26.7 26.7 28.0 28.0 29.4 29.4 31.2 31.2",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 15.2 15.2 16.0 16.0 16.8 16.8 17.6 17.6 18.7 18.7",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 21.9 21.9 23.0 23.0 24.2 24.2 25.4 25.4 26.3 21.2 26.7 21.5",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 13.1 13.1 13.8 13.8 14.5 14.5 15.2 15.2 15.8 12.7 16.0 12.9",
+        "subpoints": []
+      },
+      {
+        "title": "1.5 21.9 21.9 23.0 23.0 24.2 24.2 25.4 25.4 26.3 21.2 26.7 21.5",
+        "subpoints": []
+      },
+      {
+        "title": "2.5 13.1 13.1 13.8 13.8 14.5 14.5 15.2 15.2 15.8 12.8 16.0 12.9",
+        "subpoints": []
+      },
+      {
+        "title": "5.1 GENERAL",
+        "subpoints": []
+      },
+      {
+        "title": "5.2 FACTORS GOVERNING THE APPLICATION OF THE TEMPERATURE",
+        "subpoints": []
+      },
+      {
+        "title": "5.3 CALCULATION OF PERMISSIBLE SHORT-CIRCUIT CURRENTS",
+        "subpoints": []
+      },
+      {
+        "title": "5.4 INFLUENCE OF METHOD OF INSTALLATION",
+        "subpoints": []
+      },
+      {
+        "title": "5.5 MAXIMUM PERMISSIBLE SHORT-CIRCUIT TEMPERATURES",
+        "subpoints": [
+          "5.5.1 General",
+          "5.5.2 Insulating materials",
+          "5.5.3 Outer sheath and bedding materials",
+          "5.5.4 Conductor and metallic sheath materials and components"
+        ]
+      },
+      {
+        "title": "0.6 m 0 .6 m",
+        "subpoints": []
+      },
+      {
+        "title": "0.57 could be applied.",
+        "subpoints": []
+      },
+      {
+        "title": "0.8 0.82",
+        "subpoints": []
+      },
+      {
+        "title": "95.25 A per cable.",
+        "subpoints": []
+      },
+      {
+        "title": "62.5 \u00d71.36",
+        "subpoints": []
+      },
+      {
+        "title": "62.5 \u00d71.11",
+        "subpoints": []
+      },
+      {
+        "title": "0.305 1",
+        "subpoints": []
+      },
+      {
+        "title": "0.563 1",
+        "subpoints": []
+      },
+      {
+        "title": "92.6 \u2220\u2212 40.9V \u00d7150 \u00d7 \u00d7",
+        "subpoints": []
+      },
+      {
+        "title": "1.728 \u00d7 0.15 \u00d7 24 \u00d7 365 = $2271.",
+        "subpoints": []
+      }
+    ]
+  }
+]
